@@ -29,6 +29,12 @@ https://github.com/LAION-AI/Open-Assistant
 Databricks’ Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.
 https://github.com/databrickslabs/dolly
 
+## Red Pajamas
+An Open Source Recipe to Reproduce LLaMA training dataset
+https://github.com/togethercomputer/RedPajama-Data
+
+
+
 
 
 
