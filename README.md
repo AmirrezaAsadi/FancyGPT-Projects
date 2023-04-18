@@ -23,6 +23,9 @@ https://github.com/reworkd/AgentGPT
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 https://github.com/LAION-AI/Open-Assistant
 
+## Dolly
+Databricks’ Dolly is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use.
+https://github.com/databrickslabs/dolly
 
 
 
