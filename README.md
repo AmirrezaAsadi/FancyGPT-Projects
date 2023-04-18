@@ -11,7 +11,7 @@ A graphical user interface to AutoGPT
 https://github.com/thecookingsenpai/autogpt-gui
 
 <br>
-##AgentGPT
+## AgentGPT
 An agent creator for chatGPT with  web based GUI
 https://github.com/reworkd/AgentGPT
 
