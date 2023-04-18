@@ -1,16 +1,17 @@
 # Some fun GPT based projects
+I'm praciticng with recent projects, and if I find something useful, I list it here.
 
 # Based on ChatGPT 
 ## AutoGPT  (Highly Recommended)
 An experimental open-source attempt to make GPT-4 fully autonomous.
 https://github.com/Significant-Gravitas/Auto-GPT
 
-<br>
+
 ## AutoGPT GUI
 A graphical user interface to AutoGPT
 https://github.com/thecookingsenpai/autogpt-gui
 
-<br>
+
 ## AgentGPT
 An agent creator for chatGPT with  web based GUI
 https://github.com/reworkd/AgentGPT
