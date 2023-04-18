@@ -1,5 +1,5 @@
-# Some fun GPT based projects
-I'm praciticng with recent projects, and if I find something useful, I list it here.
+# Some fun GPT projects
+I'm playing with recent GPT projects, and if I find something useful, I list it here.
 
 # Based on ChatGPT 
 ## AutoGPT  (Highly Recommended)
@@ -16,7 +16,9 @@ https://github.com/thecookingsenpai/autogpt-gui
 An agent creator for chatGPT with  web based GUI
 https://github.com/reworkd/AgentGPT
 
-
+## WordPress Coauthor 
+This is a WordPress Gutenberg editor plugin that will put the power of OpenAI in your blog posts. 
+https://github.com/artpi/wp-writers-block-block
 # Opensource LLMs and Their Tools
 ## Open-Assistant
 <br>
